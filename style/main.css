@@ -330,17 +330,17 @@ hr {
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/bfast_club.png');
+    background: #fff url('../img/melania.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/energy.png');
+    background: #fff url('../img/lewis.png');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
     background: #fff url('../img/four_loko.png');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/melania.png');
+    background: #fff url('../img/bfast_club.png');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
     background: #fff url('../img/nun.png');
@@ -378,7 +378,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #fff url('../img/mit.jpg');
+    background: #fff url('../img/IMG_7021.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
@@ -386,7 +386,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/ihtfp.png');
+    background: #fff url('../img/energy.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
