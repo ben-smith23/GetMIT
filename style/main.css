@@ -330,23 +330,23 @@ hr {
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/stanford.png');
+    background: #fff url('../img/bfast_club.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/uc.png');
+    background: #fff url('../img/energy.png');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/uchicago.png');
+    background: #fff url('../img/four_loko.png');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/upenn.png');
+    background: #fff url('../img/melania.png');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/princeton.png');
+    background: #fff url('../img/nun.png');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/columbia.png');
+    background: #fff url('../img/red_eye.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -354,7 +354,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/cornell.png');
+    background: #fff url('../img/sailboat.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -362,7 +362,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/yale.png');
+    background: #fff url('../img/self_portrait.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -370,7 +370,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/harvard.png');
+    background: #fff url('../img/twix.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
