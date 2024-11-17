@@ -711,6 +711,6 @@ hr {
   .banner img {
     width: auto; /* Keeps aspect ratio */
     height: 80px; /* Adjust the height as needed */
-    max-width: 100%; /* Ensures it doesn’t overflow */
+    max-width: 500%; /* Ensures it doesn’t overflow */
   }
 
