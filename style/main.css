@@ -340,10 +340,10 @@ hr {
     background: #fff url('../img/new/trio.png');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/new/sheyalia.png');
+    background: #fff url('../img/new/lewisbutt.png');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/new/matteo.png');
+    background: #fff url('../img/new/nico_seb.png');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
     background: #fff url('../img/new/rob_menu.png');
@@ -370,7 +370,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/new/lewis.png');
+    background: #fff url('../img/new/golf.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
